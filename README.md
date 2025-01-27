@@ -30,9 +30,7 @@ The dataset used for this analysis contains information such as:
 - Note: Details about the dataset source and any preprocessing steps can be found within the notebook.
 
 ## Project Structure
-bash
-Copy
-Edit
+
 crime-data-analysis/
 │
 ├── crime_data_project.ipynb    # Main Jupyter Notebook with the analysis
