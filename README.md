@@ -16,21 +16,9 @@ This project analyzes crime data to uncover patterns, trends, and insights that 
 - Notebook: Jupyter Notebook for reproducible analysis.
 
 ## Getting Started
-Clone this repository to your local machine:
-bash
-Copy
-Edit
-git clone https://github.com/your-repo-name.git
-Install the required dependencies:
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Run the Jupyter Notebook to explore the analysis:
-bash
-Copy
-Edit
-jupyter notebook crime_data_project.ipynb
+- Clone this repository to your local machine:
+- Install the required dependencies:
+- Run the Jupyter Notebook to explore the analysis:
 
 ## Dataset
 The dataset used for this analysis contains information such as:
