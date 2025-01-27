@@ -12,7 +12,7 @@ This project analyzes crime data to uncover patterns, trends, and insights that 
   
 ## Technologies Used
 - Programming Language: Python
-- Libraries: Pandas, NumPy, Matplotlib, and other data analysis tools.
+- Libraries: Pandas, NumPy, Matplotlib, Plotly, and other data analysis tools.
 - Notebook: Jupyter Notebook for reproducible analysis.
 
 ## Getting Started
