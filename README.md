@@ -29,15 +29,6 @@ The dataset used for this analysis contains information such as:
 - Other Factors: Additional contextual information.
 - Note: Details about the dataset source and any preprocessing steps can be found within the notebook.
 
-## Project Structure
-
-crime-data-analysis/    \\
-│      \\
-├── crime_data_project.ipynb    # Main Jupyter Notebook with the analysis \\
-├── requirements.txt            # List of dependencies for the project \\
-├── data/                       # Folder containing the crime dataset (if included) \\
-└── visuals/                    # Folder for output visualizations \\
-
 ## Usage
 This project is designed to:
 
