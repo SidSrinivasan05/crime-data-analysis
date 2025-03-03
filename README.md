@@ -43,6 +43,7 @@ This project is designed to:
 
 ## Contributing
 - Contributions are welcome! Please fork the repository and submit a pull request with your suggested improvements.
+- This was a project done for CS 2316 - Data Input/Manipulation
 
 
 ## Acknowledgments
