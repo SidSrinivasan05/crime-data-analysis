@@ -46,6 +46,4 @@ This project is designed to:
 - This was a project done for CS 2316 - Data Input/Manipulation
 
 
-## Acknowledgments
-Special thanks to data providers, contributors, and the open-source community for making this project possible.
 
